@@ -1,0 +1,3 @@
+#!/bin/bash
+
+:> ~/.adbp_last_device
